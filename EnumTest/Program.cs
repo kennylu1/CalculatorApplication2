@@ -6,10 +6,12 @@
 
         static void Main(string[] args)
         {
+            /*-*/
+            int r = 6;
             int x = (int)Day.Sun;
             int y = (int)Day.Fri;
             Console.WriteLine($"Sun={x}");
             Console.WriteLine($"Fri={y}");
-        }
+              }
     }
 }
