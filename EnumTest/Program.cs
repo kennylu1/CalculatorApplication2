@@ -8,6 +8,7 @@
         {
             /*-*/
             int t = 7;
+            /*-*/
             int r = 6;
             int x = (int)Day.Sun;
             int y = (int)Day.Fri;
