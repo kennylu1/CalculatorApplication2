@@ -14,6 +14,8 @@
             int y = (int)Day.Fri;
             Console.WriteLine($"Sun={x}");
             Console.WriteLine($"Fri={y}");
-              }
+            Console.WriteLine($"Fri={r}");
+
+        }
     }
 }
