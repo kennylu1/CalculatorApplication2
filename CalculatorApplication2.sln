@@ -97,6 +97,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyClass2", "MyClass2\MyClas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelpAttribute", "HelpAttribute\HelpAttribute.csproj", "{4F37D930-3621-4FC1-90B4-26EBF1E1AA49}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BugFixApplication", "BugFixApplication\BugFixApplication.csproj", "{3533C329-CFEC-4384-91B6-8FC6F8D518CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -291,6 +293,10 @@ Global
 		{4F37D930-3621-4FC1-90B4-26EBF1E1AA49}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F37D930-3621-4FC1-90B4-26EBF1E1AA49}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F37D930-3621-4FC1-90B4-26EBF1E1AA49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3533C329-CFEC-4384-91B6-8FC6F8D518CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3533C329-CFEC-4384-91B6-8FC6F8D518CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3533C329-CFEC-4384-91B6-8FC6F8D518CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3533C329-CFEC-4384-91B6-8FC6F8D518CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
