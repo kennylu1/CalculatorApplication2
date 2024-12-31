@@ -107,6 +107,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.StringManipulati
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.DateTimeManipulation", "ConsoleApp.DateTimeManipulation\ConsoleApp.DateTimeManipulation.csproj", "{1FCF62BA-7ED0-442D-9EE0-955D50DFABC7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{0956E586-5EAB-4CCB-B45D-6A75A8D81A1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.Methods", "ConsoleApp.Methods\ConsoleApp.Methods.csproj", "{DFA4AFAD-A8A8-4690-B129-D78583DEDE40}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -321,6 +325,14 @@ Global
 		{1FCF62BA-7ED0-442D-9EE0-955D50DFABC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1FCF62BA-7ED0-442D-9EE0-955D50DFABC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1FCF62BA-7ED0-442D-9EE0-955D50DFABC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0956E586-5EAB-4CCB-B45D-6A75A8D81A1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0956E586-5EAB-4CCB-B45D-6A75A8D81A1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0956E586-5EAB-4CCB-B45D-6A75A8D81A1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0956E586-5EAB-4CCB-B45D-6A75A8D81A1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFA4AFAD-A8A8-4690-B129-D78583DEDE40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFA4AFAD-A8A8-4690-B129-D78583DEDE40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFA4AFAD-A8A8-4690-B129-D78583DEDE40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFA4AFAD-A8A8-4690-B129-D78583DEDE40}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
