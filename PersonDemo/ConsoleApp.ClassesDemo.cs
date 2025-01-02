@@ -1,6 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 using ConsoleApp.ClassesDemo.Classes.PersonDemo;
+using PersonDemo;
 
 Console.WriteLine("************* - Classes and Objects - *************");
 
@@ -22,3 +23,14 @@ var taxNumber = baby.GetTaxNumber();
 baby.PrintInitials();
 Console.WriteLine(taxNumber);
 
+Student student = new Student();
+student.FirstName = "keny";
+student.LastName = "tom";
+student.DateofBirth = new DateOnly(2020, 10, 18);
+
+student.PrintFullName();
+student.GenerateTaxNumber();
+student.PrintInitials();
+student.GenerateStudentIdNumber();
+var studentIdNumber = student.GetIdNumber();
+Console.WriteLine(studentIdNumber);

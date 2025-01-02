@@ -4,43 +4,28 @@ using System.Security.Cryptography;
 
 namespace ConsoleApp.ClassesDemo.Classes.PersonDemo;
 
-public  class Person
+public partial class Person
 {
     public Person()
     {
 
     }
-    public Person(string firstName, string lastName, DateOnly dbo)
+
+    public Person(string firstName, string lastName, string taxNumber)
     {
         FirstName = firstName;
         LastName = lastName;
-        DateofBirth = dbo;
+        _taxNumber = taxNumber;
     }
-
-    //public Person(string firstName, string lastName, string taxNumber)
-    //{
-    //    FirstName = firstName;
-    //    LastName = lastName;
-    //    if (string.IsNullOrEmpty(taxNumber))
-    //    {
-    //        TaxNumber = GenerateTaxNumber();
-    //    }
-    //    else
-    //    {
-    //        TaxNumber = taxNumber;
-    //    }
-    //}
-
-
 
     // Properties/Data Members
     public string FirstName { get; set; }
     public string LastName { get; set; }
     public DateOnly DateofBirth { get; set; }
-    //public string TaxNumber { get; private set; }
 
     // Field member
     private string _taxNumber;
+    protected string _idNumber="N/A";
 
 
     public void PrintFullName()
@@ -51,27 +36,38 @@ public  class Person
 
     public void PrintInitials()
     {
-        var first = FirstName[0];
-        var lastInital= LastName[0];
-        Console.WriteLine(first + " " + lastInital);
+        var type = GetType().Name;
+        var firstInitial = FirstName[0];
+        var lastInitial = LastName[0];
+        Console.WriteLine($"{type} initials: {firstInitial} {lastInitial}");
     }
+
     public void GenerateTaxNumber()
     {
-        _taxNumber = RandomNumberGenerator.GetInt32(100000,9999999).ToString();
+        if (string.IsNullOrEmpty(_taxNumber))
+        {
+            _taxNumber = GetRandomNumber();
+        }
+        else
+        {
+            Console.WriteLine($"Tax number already exists for {FirstName} {LastName}");
+        }
     }
+
     public string GetTaxNumber()
     {
         return _taxNumber;
     }
 
-    public int GetAge()
+    public string GetIdNumber()
     {
-        var age=DateTime.Now.Year-DateofBirth.Year;
-        return age;
+        return _idNumber;
     }
-    public string GetAge(int year)
+
+    protected string GetRandomNumber()
     {
-        var age = DateTime.Now.Year - DateofBirth.Year;
-        return age.ToString();
+        return RandomNumberGenerator
+                .GetInt32(100000, 9999999)
+                .ToString();
     }
 }
