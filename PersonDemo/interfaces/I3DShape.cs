@@ -1,4 +1,6 @@
-﻿namespace PersonDemo
+﻿using PersonDemo.Classes;
+
+namespace PersonDemo.interfaces
 {
     public interface I3DShape
     {
@@ -8,7 +10,7 @@
     {
         int Circumference();
     }
-    public class Cuboid : Polygon, I3DShape,I2DShape
+    public class Cuboid : Polygon, I3DShape, I2DShape
     {
 
         public override int Area()

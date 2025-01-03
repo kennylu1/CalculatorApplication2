@@ -4,10 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PersonDemo
+namespace PersonDemo.Classes
 {
     public abstract class Polygon
-    {public int Width { get; set; }
+    {
+        public int Width { get; set; }
         public abstract int Area();
     }
     public class Square : Polygon

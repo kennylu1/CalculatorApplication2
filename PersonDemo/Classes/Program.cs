@@ -2,7 +2,7 @@
 // Define a class
 using System.Security.Cryptography;
 
-namespace ConsoleApp.ClassesDemo.Classes.PersonDemo;
+namespace PersonDemo.Classes;
 
 public partial class Person
 {
@@ -25,7 +25,7 @@ public partial class Person
 
     // Field member
     private string _taxNumber;
-    protected string _idNumber="N/A";
+    protected string _idNumber = "N/A";
 
 
     public void PrintFullName()
@@ -71,3 +71,6 @@ public partial class Person
                 .ToString();
     }
 }
+
+
+

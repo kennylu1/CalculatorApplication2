@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PersonDemo
+namespace PersonDemo.Classes
 {
-    public interface I2DShape
+    internal class PersonWithDob
     {
-        double Perimeter();
     }
 }

@@ -3,10 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using PersonDemo.interfaces;
 
-namespace PersonDemo
+namespace PersonDemo.Classes
 {
-    public class Rectangle : Polygon ,I2DShape
+    public class Rectangle : Polygon, I2DShape
     {
         public Rectangle(double width, double length)
         {
