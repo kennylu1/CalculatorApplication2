@@ -38,20 +38,34 @@ namespace CsrRentalApp
             //MessageBox.Show($"Thank for you Renting:\n{tbCustomerName.Text}");//submit 增加語言
 
             string customerName =tbCustomerName.Text;
-            string dateOut=dtRented.Value.ToString();
-            string dateIn=dtReturned.Value.ToString();
+            var dateOut=dtRented.Value;
+            var dateIn=dtReturned.Value;
+            double cost=Convert.ToDouble(tbCost.Text);
             var carType = cbTypeOfCar.SelectedItem.ToString();
+            if (string.IsNullOrWhiteSpace(customerName)||string.IsNullOrWhiteSpace(carType))
+            {
+                MessageBox.Show("Please enter missing data.");
+            }
+            if (dateOut > dateIn)
+            {
+                MessageBox.Show("時間錯誤");
 
+            }
             MessageBox.Show($"Customer Name:{customerName}\n\r"+
                 $"Date Rented:{dateOut}\n\r"+ $"Date Returned:{dateIn}\n\r"+
                 $"Car Type:{carType}\n\r"
-                +$"THANKS YOU FOR YOUR BUSINESS");
+                +$"THANKS  FOR YOUR BUSINESS");
 
         }
        
 
 
 private void tbCustomerName_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
         {
 
         }
