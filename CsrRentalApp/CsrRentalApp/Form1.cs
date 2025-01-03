@@ -34,10 +34,22 @@ namespace CsrRentalApp
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show($"Thank for you Renting{tbCustomerName.Text}");//submit 增加語言
-        }
+            //MessageBox.Show($"Thank for you Renting:\n{tbCustomerName.Text}");//submit 增加語言
+            string customerName=tbCustomerName.Text;
+            string dateOut=dtRented.Value.ToString();
+            string dateIn=dtReturned.Value.ToString();
+            var carType = cbTypeOfCar.SelectedItem.ToString();
 
-        private void tbCustomerName_TextChanged(object sender, EventArgs e)
+            MessageBox.Show($"Customer Name:{customerName}\n\r"+
+                $"Date Rented:{dateOut}\n\r"+ $"Date Returned:{dateIn}\n\r"+
+                $"Car Type:{carType}\n\r"
+                +$"THANKS YOU FOR YOUR BUSINESS");
+
+        }
+       
+
+
+private void tbCustomerName_TextChanged(object sender, EventArgs e)
         {
 
         }
