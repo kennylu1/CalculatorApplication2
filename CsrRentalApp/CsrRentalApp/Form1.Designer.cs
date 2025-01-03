@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             this.label1 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.tbCustomerName = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.dateTimePicker1 = new System.Windows.Forms.DateTimePicker();
             this.dateTimePicker2 = new System.Windows.Forms.DateTimePicker();
@@ -38,7 +38,7 @@
             this.checkBox1 = new System.Windows.Forms.CheckBox();
             this.comboBox1 = new System.Windows.Forms.ComboBox();
             this.label5 = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
+            this.lab1 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -52,12 +52,13 @@
             this.label1.Text = "car Rental System";
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
-            // textBox1
+            // tbCustomerName
             // 
-            this.textBox1.Location = new System.Drawing.Point(16, 224);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(313, 29);
-            this.textBox1.TabIndex = 1;
+            this.tbCustomerName.Location = new System.Drawing.Point(16, 224);
+            this.tbCustomerName.Name = "tbCustomerName";
+            this.tbCustomerName.Size = new System.Drawing.Size(313, 29);
+            this.tbCustomerName.TabIndex = 1;
+            this.tbCustomerName.TextChanged += new System.EventHandler(this.tbCustomerName_TextChanged);
             // 
             // label2
             // 
@@ -134,22 +135,23 @@
             this.label5.TabIndex = 8;
             this.label5.Text = "Type Of Car";
             // 
-            // button1
+            // lab1
             // 
-            this.button1.Font = new System.Drawing.Font("Matura MT Script Capitals", 25F);
-            this.button1.Location = new System.Drawing.Point(488, 365);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(229, 91);
-            this.button1.TabIndex = 9;
-            this.button1.Text = "Submit";
-            this.button1.UseVisualStyleBackColor = true;
+            this.lab1.Font = new System.Drawing.Font("Matura MT Script Capitals", 25F);
+            this.lab1.Location = new System.Drawing.Point(488, 360);
+            this.lab1.Name = "lab1";
+            this.lab1.Size = new System.Drawing.Size(229, 91);
+            this.lab1.TabIndex = 9;
+            this.lab1.Text = "Submit";
+            this.lab1.UseVisualStyleBackColor = true;
+            this.lab1.Click += new System.EventHandler(this.button1_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 18F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(977, 675);
-            this.Controls.Add(this.button1);
+            this.ClientSize = new System.Drawing.Size(997, 641);
+            this.Controls.Add(this.lab1);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.comboBox1);
             this.Controls.Add(this.checkBox1);
@@ -158,7 +160,7 @@
             this.Controls.Add(this.dateTimePicker2);
             this.Controls.Add(this.dateTimePicker1);
             this.Controls.Add(this.label2);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.tbCustomerName);
             this.Controls.Add(this.label1);
             this.Name = "Form1";
             this.Text = "Form1";
@@ -171,7 +173,7 @@
         #endregion
 
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox tbCustomerName;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.DateTimePicker dateTimePicker1;
         private System.Windows.Forms.DateTimePicker dateTimePicker2;
@@ -180,7 +182,7 @@
         private System.Windows.Forms.CheckBox checkBox1;
         private System.Windows.Forms.ComboBox comboBox1;
         private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button lab1;
     }
 }
 

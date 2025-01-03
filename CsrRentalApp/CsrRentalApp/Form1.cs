@@ -31,5 +31,15 @@ namespace CsrRentalApp
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show($"Thank for you Renting{tbCustomerName.Text}");//submit 增加語言
+        }
+
+        private void tbCustomerName_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
