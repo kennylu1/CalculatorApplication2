@@ -40,17 +40,23 @@ namespace CsrRentalApp
             string customerName =tbCustomerName.Text;
             var dateOut=dtRented.Value;
             var dateIn=dtReturned.Value;
-            double cost=Convert.ToDouble(tbCost.Text);
+            double cost = Convert.ToDouble(tbCost.Text);
             var carType = cbTypeOfCar.SelectedItem.ToString();
+
+            var isValid=true;
             if (string.IsNullOrWhiteSpace(customerName)||string.IsNullOrWhiteSpace(carType))
             {
+                isValid = false;
                 MessageBox.Show("Please enter missing data.");
             }
             if (dateOut > dateIn)
             {
+                isValid = false;
                 MessageBox.Show("時間錯誤");
 
             }
+            //==true
+            if (isValid)
             MessageBox.Show($"Customer Name:{customerName}\n\r"+
                 $"Date Rented:{dateOut}\n\r"+ $"Date Returned:{dateIn}\n\r"+
                 $"Car Type:{carType}\n\r"
