@@ -35,7 +35,9 @@ namespace CsrRentalApp
         private void button1_Click(object sender, EventArgs e)
         {
             //MessageBox.Show($"Thank for you Renting:\n{tbCustomerName.Text}");//submit 增加語言
-            string customerName=tbCustomerName.Text;
+            //MessageBox.Show($"Thank for you Renting:\n{tbCustomerName.Text}");//submit 增加語言
+
+            string customerName =tbCustomerName.Text;
             string dateOut=dtRented.Value.ToString();
             string dateIn=dtReturned.Value.ToString();
             var carType = cbTypeOfCar.SelectedItem.ToString();
