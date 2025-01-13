@@ -13,7 +13,7 @@ namespace ModelValidationsExample.CustomValidators
                 if (date.Year >= 2000)
                 {
 
-                    return new ValidationResult("Mimimun year allowed is 2000");
+                    return new ValidationResult(ErrorMessage);
                 }
                  
                 
