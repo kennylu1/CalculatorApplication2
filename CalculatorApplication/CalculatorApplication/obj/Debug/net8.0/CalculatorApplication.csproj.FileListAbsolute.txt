@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\net8.0\CalculatorApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\net8.0\CalculatorApplication.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\net8.0\CalculatorApplication.AssemblyInfo.cs
+C:\Users\Acer\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\net8.0\CalculatorApplication.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\CalculatorApplication\CalculatorApplication\bin\Debug\net8.0\CalculatorApplication.exe
+C:\Users\Acer\source\repos\CalculatorApplication\CalculatorApplication\bin\Debug\net8.0\CalculatorApplication.deps.json
+C:\Users\Acer\source\repos\CalculatorApplication\CalculatorApplication\bin\Debug\net8.0\CalculatorApplication.runtimeconfig.json
+C:\Users\Acer\source\repos\CalculatorApplication\CalculatorApplication\bin\Debug\net8.0\CalculatorApplication.dll
+C:\Users\Acer\source\repos\CalculatorApplication\CalculatorApplication\bin\Debug\net8.0\CalculatorApplication.pdb
+C:\Users\Acer\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\net8.0\CalculatorApplication.dll
+C:\Users\Acer\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\net8.0\refint\CalculatorApplication.dll
+C:\Users\Acer\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\net8.0\CalculatorApplication.pdb
+C:\Users\Acer\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\net8.0\CalculatorApplication.genruntimeconfig.cache
+C:\Users\Acer\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\net8.0\ref\CalculatorApplication.dll

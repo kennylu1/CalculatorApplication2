@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\source\\repos\\netcore\\ControllersExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97F83515-E103-4C71-9A12-47F33D7929B7}|ControllersExample\\ControllersExample.csproj|c:\\users\\acer\\source\\repos\\netcore\\controllersexample\\controllersexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F83515-E103-4C71-9A12-47F33D7929B7}|ControllersExample\\ControllersExample.csproj|solutionrelative:controllersexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F83515-E103-4C71-9A12-47F33D7929B7}|ControllersExample\\ControllersExample.csproj|c:\\users\\acer\\source\\repos\\netcore\\controllersexample\\controllersexample\\controllers\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F83515-E103-4C71-9A12-47F33D7929B7}|ControllersExample\\ControllersExample.csproj|solutionrelative:controllersexample\\controllers\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F83515-E103-4C71-9A12-47F33D7929B7}|ControllersExample\\ControllersExample.csproj|c:\\users\\acer\\source\\repos\\netcore\\controllersexample\\controllersexample\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F83515-E103-4C71-9A12-47F33D7929B7}|ControllersExample\\ControllersExample.csproj|solutionrelative:controllersexample\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F83515-E103-4C71-9A12-47F33D7929B7}|ControllersExample\\ControllersExample.csproj|c:\\users\\acer\\source\\repos\\netcore\\controllersexample\\controllersexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F83515-E103-4C71-9A12-47F33D7929B7}|ControllersExample\\ControllersExample.csproj|solutionrelative:controllersexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\netcore\\ControllersExample\\ControllersExample\\Program.cs",
+              "RelativeDocumentMoniker": "ControllersExample\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\netcore\\ControllersExample\\ControllersExample\\Program.cs",
+              "RelativeToolTip": "ControllersExample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T01:57:45.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "store.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\netcore\\ControllersExample\\ControllersExample\\Controllers\\store.cs",
+              "RelativeDocumentMoniker": "ControllersExample\\Controllers\\store.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\netcore\\ControllersExample\\ControllersExample\\Controllers\\store.cs",
+              "RelativeToolTip": "ControllersExample\\Controllers\\store.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T01:49:33.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\netcore\\ControllersExample\\ControllersExample\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ControllersExample\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\netcore\\ControllersExample\\ControllersExample\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ControllersExample\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T01:48:57.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\netcore\\ControllersExample\\ControllersExample\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "ControllersExample\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\netcore\\ControllersExample\\ControllersExample\\Models\\Book.cs",
+              "RelativeToolTip": "ControllersExample\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T01:45:00.603Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\VariableDefinition\VariableDefinition\bin\Debug\net8.0\VariableDefinition.exe
+C:\Users\Acer\source\repos\VariableDefinition\VariableDefinition\bin\Debug\net8.0\VariableDefinition.deps.json
+C:\Users\Acer\source\repos\VariableDefinition\VariableDefinition\bin\Debug\net8.0\VariableDefinition.runtimeconfig.json
+C:\Users\Acer\source\repos\VariableDefinition\VariableDefinition\bin\Debug\net8.0\VariableDefinition.dll
+C:\Users\Acer\source\repos\VariableDefinition\VariableDefinition\bin\Debug\net8.0\VariableDefinition.pdb
+C:\Users\Acer\source\repos\VariableDefinition\VariableDefinition\obj\Debug\net8.0\VariableDefinition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\VariableDefinition\VariableDefinition\obj\Debug\net8.0\VariableDefinition.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\VariableDefinition\VariableDefinition\obj\Debug\net8.0\VariableDefinition.AssemblyInfo.cs
+C:\Users\Acer\source\repos\VariableDefinition\VariableDefinition\obj\Debug\net8.0\VariableDefinition.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\VariableDefinition\VariableDefinition\obj\Debug\net8.0\VariableDefinition.dll
+C:\Users\Acer\source\repos\VariableDefinition\VariableDefinition\obj\Debug\net8.0\refint\VariableDefinition.dll
+C:\Users\Acer\source\repos\VariableDefinition\VariableDefinition\obj\Debug\net8.0\VariableDefinition.pdb
+C:\Users\Acer\source\repos\VariableDefinition\VariableDefinition\obj\Debug\net8.0\VariableDefinition.genruntimeconfig.cache
+C:\Users\Acer\source\repos\VariableDefinition\VariableDefinition\obj\Debug\net8.0\ref\VariableDefinition.dll

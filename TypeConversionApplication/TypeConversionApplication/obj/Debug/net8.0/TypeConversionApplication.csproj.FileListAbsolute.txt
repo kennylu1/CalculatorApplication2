@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\TypeConversionApplication\TypeConversionApplication\bin\Debug\net8.0\TypeConversionApplication.exe
+C:\Users\Acer\source\repos\TypeConversionApplication\TypeConversionApplication\bin\Debug\net8.0\TypeConversionApplication.deps.json
+C:\Users\Acer\source\repos\TypeConversionApplication\TypeConversionApplication\bin\Debug\net8.0\TypeConversionApplication.runtimeconfig.json
+C:\Users\Acer\source\repos\TypeConversionApplication\TypeConversionApplication\bin\Debug\net8.0\TypeConversionApplication.dll
+C:\Users\Acer\source\repos\TypeConversionApplication\TypeConversionApplication\bin\Debug\net8.0\TypeConversionApplication.pdb
+C:\Users\Acer\source\repos\TypeConversionApplication\TypeConversionApplication\obj\Debug\net8.0\TypeConversionApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\TypeConversionApplication\TypeConversionApplication\obj\Debug\net8.0\TypeConversionApplication.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\TypeConversionApplication\TypeConversionApplication\obj\Debug\net8.0\TypeConversionApplication.AssemblyInfo.cs
+C:\Users\Acer\source\repos\TypeConversionApplication\TypeConversionApplication\obj\Debug\net8.0\TypeConversionApplication.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\TypeConversionApplication\TypeConversionApplication\obj\Debug\net8.0\TypeConversionApplication.dll
+C:\Users\Acer\source\repos\TypeConversionApplication\TypeConversionApplication\obj\Debug\net8.0\refint\TypeConversionApplication.dll
+C:\Users\Acer\source\repos\TypeConversionApplication\TypeConversionApplication\obj\Debug\net8.0\TypeConversionApplication.pdb
+C:\Users\Acer\source\repos\TypeConversionApplication\TypeConversionApplication\obj\Debug\net8.0\TypeConversionApplication.genruntimeconfig.cache
+C:\Users\Acer\source\repos\TypeConversionApplication\TypeConversionApplication\obj\Debug\net8.0\ref\TypeConversionApplication.dll

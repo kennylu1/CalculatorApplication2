@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\source\\repos\\Controller\\ModelValidationsExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A88F9A-880F-469C-B873-87350AE90412}|ModelValidationsExample\\ModelValidationsExample.csproj|c:\\users\\acer\\source\\repos\\controller\\modelvalidationsexample\\modelvalidationsexample\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A88F9A-880F-469C-B873-87350AE90412}|ModelValidationsExample\\ModelValidationsExample.csproj|solutionrelative:modelvalidationsexample\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A88F9A-880F-469C-B873-87350AE90412}|ModelValidationsExample\\ModelValidationsExample.csproj|c:\\users\\acer\\source\\repos\\controller\\modelvalidationsexample\\modelvalidationsexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A88F9A-880F-469C-B873-87350AE90412}|ModelValidationsExample\\ModelValidationsExample.csproj|solutionrelative:modelvalidationsexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A88F9A-880F-469C-B873-87350AE90412}|ModelValidationsExample\\ModelValidationsExample.csproj|c:\\users\\acer\\source\\repos\\controller\\modelvalidationsexample\\modelvalidationsexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A88F9A-880F-469C-B873-87350AE90412}|ModelValidationsExample\\ModelValidationsExample.csproj|solutionrelative:modelvalidationsexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\Controller\\ModelValidationsExample\\ModelValidationsExample\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ModelValidationsExample\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\Controller\\ModelValidationsExample\\ModelValidationsExample\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ModelValidationsExample\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T02:06:12.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\Controller\\ModelValidationsExample\\ModelValidationsExample\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "ModelValidationsExample\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\Controller\\ModelValidationsExample\\ModelValidationsExample\\Models\\Person.cs",
+              "RelativeToolTip": "ModelValidationsExample\\Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T02:02:36.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\Controller\\ModelValidationsExample\\ModelValidationsExample\\Program.cs",
+              "RelativeDocumentMoniker": "ModelValidationsExample\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\Controller\\ModelValidationsExample\\ModelValidationsExample\\Program.cs",
+              "RelativeToolTip": "ModelValidationsExample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T02:00:21.109Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

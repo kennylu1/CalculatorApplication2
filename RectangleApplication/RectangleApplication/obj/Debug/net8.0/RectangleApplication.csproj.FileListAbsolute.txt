@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\RectangleApplication\RectangleApplication\bin\Debug\net8.0\RectangleApplication.exe
+C:\Users\Acer\source\repos\RectangleApplication\RectangleApplication\bin\Debug\net8.0\RectangleApplication.deps.json
+C:\Users\Acer\source\repos\RectangleApplication\RectangleApplication\bin\Debug\net8.0\RectangleApplication.runtimeconfig.json
+C:\Users\Acer\source\repos\RectangleApplication\RectangleApplication\bin\Debug\net8.0\RectangleApplication.dll
+C:\Users\Acer\source\repos\RectangleApplication\RectangleApplication\bin\Debug\net8.0\RectangleApplication.pdb
+C:\Users\Acer\source\repos\RectangleApplication\RectangleApplication\obj\Debug\net8.0\RectangleApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\RectangleApplication\RectangleApplication\obj\Debug\net8.0\RectangleApplication.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\RectangleApplication\RectangleApplication\obj\Debug\net8.0\RectangleApplication.AssemblyInfo.cs
+C:\Users\Acer\source\repos\RectangleApplication\RectangleApplication\obj\Debug\net8.0\RectangleApplication.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\RectangleApplication\RectangleApplication\obj\Debug\net8.0\RectangleApplication.dll
+C:\Users\Acer\source\repos\RectangleApplication\RectangleApplication\obj\Debug\net8.0\refint\RectangleApplication.dll
+C:\Users\Acer\source\repos\RectangleApplication\RectangleApplication\obj\Debug\net8.0\RectangleApplication.pdb
+C:\Users\Acer\source\repos\RectangleApplication\RectangleApplication\obj\Debug\net8.0\RectangleApplication.genruntimeconfig.cache
+C:\Users\Acer\source\repos\RectangleApplication\RectangleApplication\obj\Debug\net8.0\ref\RectangleApplication.dll

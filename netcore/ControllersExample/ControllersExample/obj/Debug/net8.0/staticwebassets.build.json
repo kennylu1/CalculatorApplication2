@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "dpbm9eqS6NKcaYl0nvpeOTJOkoyTLRwHn7J+cOspIlA=",
+  "Source": "ControllersExample",
+  "BasePath": "_content/ControllersExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ControllersExample\\wwwroot",
+      "Source": "ControllersExample",
+      "ContentRoot": "C:\\Users\\Acer\\source\\repos\\netcore\\ControllersExample\\ControllersExample\\wwwroot\\",
+      "BasePath": "_content/ControllersExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Acer\\source\\repos\\netcore\\ControllersExample\\ControllersExample\\wwwroot\\Sample.pdf",
+      "SourceId": "ControllersExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Acer\\source\\repos\\netcore\\ControllersExample\\ControllersExample\\wwwroot\\",
+      "BasePath": "_content/ControllersExample",
+      "RelativePath": "Sample#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qwkxg6lbdt",
+      "Integrity": "5h+kqMixchCKpmew4L3cyPJifTQZC84ZK1v8/rK1LeE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Sample.pdf"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Sample.pdf",
+      "AssetFile": "C:\\Users\\Acer\\source\\repos\\netcore\\ControllersExample\\ControllersExample\\wwwroot\\Sample.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1883108"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5h+kqMixchCKpmew4L3cyPJifTQZC84ZK1v8/rK1LeE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 08:03:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5h+kqMixchCKpmew4L3cyPJifTQZC84ZK1v8/rK1LeE="
+        }
+      ]
+    },
+    {
+      "Route": "Sample.qwkxg6lbdt.pdf",
+      "AssetFile": "C:\\Users\\Acer\\source\\repos\\netcore\\ControllersExample\\ControllersExample\\wwwroot\\Sample.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1883108"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5h+kqMixchCKpmew4L3cyPJifTQZC84ZK1v8/rK1LeE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 08:03:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qwkxg6lbdt"
+        },
+        {
+          "Name": "label",
+          "Value": "Sample.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5h+kqMixchCKpmew4L3cyPJifTQZC84ZK1v8/rK1LeE="
+        }
+      ]
+    }
+  ]
+}
