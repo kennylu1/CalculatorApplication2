@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Acer\\source\\repos\\Controller\\ModelValidationsExample\\ModelValidationsExample\\ModelValidationsExample.csproj",
+      "projectUniqueName": "C:\\Users\\Acer\\source\\repos\\CalculatorApplication2\\Controller\\ModelValidationsExample\\ModelValidationsExample\\ModelValidationsExample.csproj",
       "projectName": "ModelValidationsExample",
-      "projectPath": "C:\\Users\\Acer\\source\\repos\\Controller\\ModelValidationsExample\\ModelValidationsExample\\ModelValidationsExample.csproj",
+      "projectPath": "C:\\Users\\Acer\\source\\repos\\CalculatorApplication2\\Controller\\ModelValidationsExample\\ModelValidationsExample\\ModelValidationsExample.csproj",
       "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Acer\\source\\repos\\Controller\\ModelValidationsExample\\ModelValidationsExample\\obj\\",
+      "outputPath": "C:\\Users\\Acer\\source\\repos\\CalculatorApplication2\\Controller\\ModelValidationsExample\\ModelValidationsExample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
