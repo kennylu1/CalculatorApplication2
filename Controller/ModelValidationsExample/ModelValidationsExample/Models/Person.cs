@@ -33,7 +33,7 @@ namespace ModelValidationsExample.Models
 
     [Range(0, 999.99, ErrorMessage = "{0} should be between ${1} and ${2}")]
     public double? Price { get; set; }
-        [MinimumYearValidator]
+        [MinimumYearValidator(ErrorMessage ="Date of birth should not be newer than jan 01 ,2000 ")]
         public DateTime? DateOfBirth { get; set; }
 
 
