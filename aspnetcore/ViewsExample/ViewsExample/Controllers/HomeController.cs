@@ -7,8 +7,8 @@ namespace ViewsExample.Controllers
         [Route("home")]
         public IActionResult Index()
         {
-            //return View();
-            return new ViewResult() { ViewName = "ABC" };
+            return View();
+            //return new ViewResult() { ViewName = "ABC" };
         }
     }
 }
