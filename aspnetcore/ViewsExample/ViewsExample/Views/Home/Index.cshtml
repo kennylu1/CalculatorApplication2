@@ -1,16 +1,32 @@
-﻿<!DOCTYPE html>
+﻿@using ViewsExample.Models
+@{
+	string appTitle = "asp.net core demo app";
+	Person person = new Person() { Name = "John", DateOfBirth = Convert.ToDateTime("2000-07-01") };
+}
+@* //替換title *@
+
+<!DOCTYPE html>
 <html>
 <head>
-    <title>ASP</title>
-    <meta charset="utf-8"/>
+	<title>@appTitle</title>
+	<meta charset="utf-8" />
 
-    
 
-      
+
+
 </head>
 
 <body>
-    <h1>早</h1>
+	<h1>早</h1>
+	<h2>Hello @person.Name</h2>
+	@if (person.DateOfBirth.HasValue)
+	{
+		double age = Math.Round((DateTime.Now - person.DateOfBirth).Value.TotalDays / 365.25);
+		<h3>@age  years old</h3>
 
+	}
+	@* @{ *@
+		
+	@* } *@
 </body>
 </html>
