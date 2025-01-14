@@ -4,5 +4,10 @@
     {
         public string? Name { get; set; }
         public DateTime? DateOfBirth { get; set; }
+        public Gender PersontGender { get; set; }
+    }
+    public enum Gender
+    {
+        Male,Female,other
     }
 }
