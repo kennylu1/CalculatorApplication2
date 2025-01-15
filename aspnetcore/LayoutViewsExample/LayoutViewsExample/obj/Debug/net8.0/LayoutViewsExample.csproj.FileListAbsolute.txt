@@ -29,3 +29,5 @@ C:\Users\Acer\source\repos\CalculatorApplication2\aspnetcore\LayoutViewsExample\
 C:\Users\Acer\source\repos\CalculatorApplication2\aspnetcore\LayoutViewsExample\LayoutViewsExample\obj\Debug\net8.0\LayoutViewsExample.pdb
 C:\Users\Acer\source\repos\CalculatorApplication2\aspnetcore\LayoutViewsExample\LayoutViewsExample\obj\Debug\net8.0\LayoutViewsExample.genruntimeconfig.cache
 C:\Users\Acer\source\repos\CalculatorApplication2\aspnetcore\LayoutViewsExample\LayoutViewsExample\obj\Debug\net8.0\ref\LayoutViewsExample.dll
+C:\Users\Acer\source\repos\CalculatorApplication2\aspnetcore\LayoutViewsExample\LayoutViewsExample\obj\Debug\net8.0\LayoutViewsExample.RazorAssemblyInfo.cache
+C:\Users\Acer\source\repos\CalculatorApplication2\aspnetcore\LayoutViewsExample\LayoutViewsExample\obj\Debug\net8.0\LayoutViewsExample.RazorAssemblyInfo.cs
