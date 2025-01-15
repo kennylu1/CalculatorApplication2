@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4g93QswyKc4i46luysCuT4LwLMj9d9wVO7h+9udRCXI=",
+  "Hash": "fOdLlpR0uHilrRgNJR8ioWjYrU+hGAxNV4kO2Ua1oUQ=",
   "Source": "ViewsExample",
   "BasePath": "_content/ViewsExample",
   "Mode": "Default",
@@ -15,6 +15,111 @@
       "Pattern": "**"
     }
   ],
-  "Assets": [],
-  "Endpoints": []
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Acer\\source\\repos\\CalculatorApplication2\\aspnetcore\\ViewsExample\\ViewsExample\\wwwroot\\StyleSheet.css",
+      "SourceId": "ViewsExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Acer\\source\\repos\\CalculatorApplication2\\aspnetcore\\ViewsExample\\ViewsExample\\wwwroot\\",
+      "BasePath": "_content/ViewsExample",
+      "RelativePath": "StyleSheet#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0hypi6zjsi",
+      "Integrity": "xJTheUp/yHFfOg5xSgzD4K/2V+cGz/8noaqt5pAy5nA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "StyleSheet.0hypi6zjsi.css",
+      "AssetFile": "C:\\Users\\Acer\\source\\repos\\CalculatorApplication2\\aspnetcore\\ViewsExample\\ViewsExample\\wwwroot\\StyleSheet.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3300"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xJTheUp/yHFfOg5xSgzD4K/2V+cGz/8noaqt5pAy5nA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jan 2025 08:05:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0hypi6zjsi"
+        },
+        {
+          "Name": "label",
+          "Value": "StyleSheet.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xJTheUp/yHFfOg5xSgzD4K/2V+cGz/8noaqt5pAy5nA="
+        }
+      ]
+    },
+    {
+      "Route": "StyleSheet.css",
+      "AssetFile": "C:\\Users\\Acer\\source\\repos\\CalculatorApplication2\\aspnetcore\\ViewsExample\\ViewsExample\\wwwroot\\StyleSheet.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3300"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xJTheUp/yHFfOg5xSgzD4K/2V+cGz/8noaqt5pAy5nA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jan 2025 08:05:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xJTheUp/yHFfOg5xSgzD4K/2V+cGz/8noaqt5pAy5nA="
+        }
+      ]
+    }
+  ]
 }
