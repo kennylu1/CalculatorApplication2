@@ -1,0 +1,16 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/LayoutViewsExample/StyleSheet.0hypi6zjsi.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\StyleSheet.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0hypi6zjsi"},{"Name":"integrity","Value":"sha256-xJTheUp/yHFfOg5xSgzD4K/2V\u002BcGz/8noaqt5pAy5nA="},{"Name":"label","Value":"_content/LayoutViewsExample/StyleSheet.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3300"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022xJTheUp/yHFfOg5xSgzD4K/2V\u002BcGz/8noaqt5pAy5nA=\u0022"},{"Name":"Last-Modified","Value":"Tue, 14 Jan 2025 08:05:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/LayoutViewsExample/StyleSheet.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\StyleSheet.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-xJTheUp/yHFfOg5xSgzD4K/2V\u002BcGz/8noaqt5pAy5nA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3300"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022xJTheUp/yHFfOg5xSgzD4K/2V\u002BcGz/8noaqt5pAy5nA=\u0022"},{"Name":"Last-Modified","Value":"Tue, 14 Jan 2025 08:05:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>
