@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "Hash": "kbok24HBxvPtPryJ+mCdVZSZh3xfkVmUssxpql+SO40=",
+=======
+  "Hash": "VubeLillqPP1MQH6yehEaeliLzRQ9y3HnSQjFaEOTsk=",
+>>>>>>> 402e8f5ccc83d6413d52fefe98700f1b30941248
   "Source": "PartialViewExample",
   "BasePath": "_content/PartialViewExample",
   "Mode": "Default",
@@ -10,17 +14,17 @@
     {
       "Name": "PartialViewExample\\wwwroot",
       "Source": "PartialViewExample",
-      "ContentRoot": "C:\\Users\\Acer\\source\\repos\\CalculatorApplication2\\aspnetcore\\PartialViewExample\\PartialViewExample\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Acer\\source\\repos\\class\\aspnetcore\\PartialViewExample\\PartialViewExample\\wwwroot\\",
       "BasePath": "_content/PartialViewExample",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Acer\\source\\repos\\CalculatorApplication2\\aspnetcore\\PartialViewExample\\PartialViewExample\\wwwroot\\StyleSheet.css",
+      "Identity": "C:\\Users\\Acer\\source\\repos\\class\\aspnetcore\\PartialViewExample\\PartialViewExample\\wwwroot\\StyleSheet.css",
       "SourceId": "PartialViewExample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Acer\\source\\repos\\CalculatorApplication2\\aspnetcore\\PartialViewExample\\PartialViewExample\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Acer\\source\\repos\\class\\aspnetcore\\PartialViewExample\\PartialViewExample\\wwwroot\\",
       "BasePath": "_content/PartialViewExample",
       "RelativePath": "StyleSheet#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -41,7 +45,7 @@
   "Endpoints": [
     {
       "Route": "StyleSheet.css",
-      "AssetFile": "C:\\Users\\Acer\\source\\repos\\CalculatorApplication2\\aspnetcore\\PartialViewExample\\PartialViewExample\\wwwroot\\StyleSheet.css",
+      "AssetFile": "C:\\Users\\Acer\\source\\repos\\class\\aspnetcore\\PartialViewExample\\PartialViewExample\\wwwroot\\StyleSheet.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -62,7 +66,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 16 Jan 2025 08:39:24 GMT"
+=======
+          "Value": "Thu, 16 Jan 2025 08:16:39 GMT"
+>>>>>>> 402e8f5ccc83d6413d52fefe98700f1b30941248
         },
         {
           "Name": "Cache-Control",
@@ -78,7 +86,7 @@
     },
     {
       "Route": "StyleSheet.nc6qh41eff.css",
-      "AssetFile": "C:\\Users\\Acer\\source\\repos\\CalculatorApplication2\\aspnetcore\\PartialViewExample\\PartialViewExample\\wwwroot\\StyleSheet.css",
+      "AssetFile": "C:\\Users\\Acer\\source\\repos\\class\\aspnetcore\\PartialViewExample\\PartialViewExample\\wwwroot\\StyleSheet.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -99,7 +107,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Thu, 16 Jan 2025 08:39:24 GMT"
+=======
+          "Value": "Thu, 16 Jan 2025 08:16:39 GMT"
+>>>>>>> 402e8f5ccc83d6413d52fefe98700f1b30941248
         },
         {
           "Name": "Cache-Control",
