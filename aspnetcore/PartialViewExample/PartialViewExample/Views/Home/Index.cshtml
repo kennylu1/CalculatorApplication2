@@ -1,7 +1,30 @@
 ﻿<h1>Home</h1>
+@{
+    ListModel listModel = new ListModel();
+    listModel.ListTitle = "Countries";
+    listModel.ListItems = new List<string>() {  "USA",
+        "Canada",
+        "Japan",
+        "Germany",
+        "India" };
 
-<partial name="_ListPartialView"></partial>
+}
+<partial name="_ListPartialView" model="listModel"></partial>
 
+@{
+    var myViewData = new ViewDataDictionary(ViewData);
+
+    myViewData["ListTitle"] = "Countries";
+    myViewData["ListItems"] = new List<string>() {
+        "USA",
+        "Canada",
+        "Japan",
+        "Germany",
+        "India"
+      };
+}
 <div class="box">
-    <partial name="_ListPartialView"></partial>
+    <partial name="_ListPartialView" view-data="myViewData"></partial>
 </div>
+
+<h3>ListTitle in View: @ViewData["ListTitle"]</h3>
