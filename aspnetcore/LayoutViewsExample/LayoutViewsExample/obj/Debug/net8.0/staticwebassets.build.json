@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "aPaOT6FwUK3MbjemoH5U106eb+x2Eqgmf8do/TcSDEM=",
+  "Hash": "5YiJjvM18i22sDXDMwExXOOY5RPKRHalDP8+6lD9T5Y=",
   "Source": "LayoutViewsExample",
   "BasePath": "_content/LayoutViewsExample",
   "Mode": "Default",
@@ -31,59 +31,14 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "0hypi6zjsi",
-      "Integrity": "xJTheUp/yHFfOg5xSgzD4K/2V+cGz/8noaqt5pAy5nA=",
+      "Fingerprint": "eg8kegy82v",
+      "Integrity": "MmoAy7HITrq+0BgtfVORCvb4Mz09Yobqm1GiT4lzRNM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\StyleSheet.css"
     }
   ],
   "Endpoints": [
-    {
-      "Route": "StyleSheet.0hypi6zjsi.css",
-      "AssetFile": "C:\\Users\\Acer\\source\\repos\\CalculatorApplication2\\aspnetcore\\LayoutViewsExample\\LayoutViewsExample\\wwwroot\\StyleSheet.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3300"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"xJTheUp/yHFfOg5xSgzD4K/2V+cGz/8noaqt5pAy5nA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 14 Jan 2025 08:05:23 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "0hypi6zjsi"
-        },
-        {
-          "Name": "label",
-          "Value": "StyleSheet.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-xJTheUp/yHFfOg5xSgzD4K/2V+cGz/8noaqt5pAy5nA="
-        }
-      ]
-    },
     {
       "Route": "StyleSheet.css",
       "AssetFile": "C:\\Users\\Acer\\source\\repos\\CalculatorApplication2\\aspnetcore\\LayoutViewsExample\\LayoutViewsExample\\wwwroot\\StyleSheet.css",
@@ -95,7 +50,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3300"
+          "Value": "3623"
         },
         {
           "Name": "Content-Type",
@@ -103,11 +58,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"xJTheUp/yHFfOg5xSgzD4K/2V+cGz/8noaqt5pAy5nA=\""
+          "Value": "\"MmoAy7HITrq+0BgtfVORCvb4Mz09Yobqm1GiT4lzRNM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 14 Jan 2025 08:05:23 GMT"
+          "Value": "Thu, 16 Jan 2025 00:47:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -117,7 +72,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-xJTheUp/yHFfOg5xSgzD4K/2V+cGz/8noaqt5pAy5nA="
+          "Value": "sha256-MmoAy7HITrq+0BgtfVORCvb4Mz09Yobqm1GiT4lzRNM="
+        }
+      ]
+    },
+    {
+      "Route": "StyleSheet.eg8kegy82v.css",
+      "AssetFile": "C:\\Users\\Acer\\source\\repos\\CalculatorApplication2\\aspnetcore\\LayoutViewsExample\\LayoutViewsExample\\wwwroot\\StyleSheet.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3623"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MmoAy7HITrq+0BgtfVORCvb4Mz09Yobqm1GiT4lzRNM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 00:47:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eg8kegy82v"
+        },
+        {
+          "Name": "label",
+          "Value": "StyleSheet.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MmoAy7HITrq+0BgtfVORCvb4Mz09Yobqm1GiT4lzRNM="
         }
       ]
     }
