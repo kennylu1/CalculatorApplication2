@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace PartialViewExample.Controllers
+namespace PartialViewsExample.Controllers
 {
     public class HomeController : Controller
     {
@@ -15,9 +15,5 @@ namespace PartialViewExample.Controllers
         {
             return View();
         }
-        //public IActionResult Index()
-        //{
-        //    return View();
-        //}
     }
 }
