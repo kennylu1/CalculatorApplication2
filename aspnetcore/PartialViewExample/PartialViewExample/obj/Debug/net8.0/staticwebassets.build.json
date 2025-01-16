@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "h8el1Uce8nY+woZN4WTKHDBuxdUffNUx80VWuxXb7no=",
+  "Hash": "kbok24HBxvPtPryJ+mCdVZSZh3xfkVmUssxpql+SO40=",
   "Source": "PartialViewExample",
   "BasePath": "_content/PartialViewExample",
   "Mode": "Default",
@@ -62,7 +62,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 05:45:56 GMT"
+          "Value": "Thu, 16 Jan 2025 08:39:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -99,7 +99,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 16 Jan 2025 05:45:56 GMT"
+          "Value": "Thu, 16 Jan 2025 08:39:24 GMT"
         },
         {
           "Name": "Cache-Control",
