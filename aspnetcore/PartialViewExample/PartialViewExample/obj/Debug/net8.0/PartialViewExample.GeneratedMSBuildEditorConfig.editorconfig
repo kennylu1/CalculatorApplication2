@@ -9,37 +9,37 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PartialViewExample
 build_property.RootNamespace = PartialViewExample
-build_property.ProjectDir = C:\Users\Acer\source\repos\class\aspnetcore\PartialViewExample\PartialViewExample\
+build_property.ProjectDir = C:\Users\Acer\source\repos\CalculatorApplication2\aspnetcore\PartialViewExample\PartialViewExample\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Acer\source\repos\class\aspnetcore\PartialViewExample\PartialViewExample
+build_property.MSBuildProjectDirectory = C:\Users\Acer\source\repos\CalculatorApplication2\aspnetcore\PartialViewExample\PartialViewExample
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/Acer/source/repos/class/aspnetcore/PartialViewExample/PartialViewExample/Views/Home/About.cshtml]
+[C:/Users/Acer/source/repos/CalculatorApplication2/aspnetcore/PartialViewExample/PartialViewExample/Views/Home/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Acer/source/repos/class/aspnetcore/PartialViewExample/PartialViewExample/Views/Home/Index.cshtml]
+[C:/Users/Acer/source/repos/CalculatorApplication2/aspnetcore/PartialViewExample/PartialViewExample/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Acer/source/repos/class/aspnetcore/PartialViewExample/PartialViewExample/Views/Shared/_Layout.cshtml]
+[C:/Users/Acer/source/repos/CalculatorApplication2/aspnetcore/PartialViewExample/PartialViewExample/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Acer/source/repos/class/aspnetcore/PartialViewExample/PartialViewExample/Views/Shared/_ListPartialView.cshtml]
+[C:/Users/Acer/source/repos/CalculatorApplication2/aspnetcore/PartialViewExample/PartialViewExample/Views/Shared/_ListPartialView.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MaXN0UGFydGlhbFZpZXcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Acer/source/repos/class/aspnetcore/PartialViewExample/PartialViewExample/Views/_ViewImports.cshtml]
+[C:/Users/Acer/source/repos/CalculatorApplication2/aspnetcore/PartialViewExample/PartialViewExample/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Acer/source/repos/class/aspnetcore/PartialViewExample/PartialViewExample/Views/_ViewStart.cshtml]
+[C:/Users/Acer/source/repos/CalculatorApplication2/aspnetcore/PartialViewExample/PartialViewExample/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

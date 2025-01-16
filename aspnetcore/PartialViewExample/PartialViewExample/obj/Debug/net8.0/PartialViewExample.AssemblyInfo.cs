@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PartialViewExample")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4c27afb59293a0c04d1946f731cff07187ab680")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+25ddccb3de33b017063e57e9c24391efaf2ea2b0")]
 [assembly: System.Reflection.AssemblyProductAttribute("PartialViewExample")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PartialViewExample")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
